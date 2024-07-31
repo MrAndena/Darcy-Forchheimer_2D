@@ -12,4 +12,4 @@ The aim is to benefit from the high-level flexibility featured by dG schemes to 
 the solution fields. The main features of the proposed discretization method will be 
 assessed by a complete numerical investigation.
 
-All the codes are find in the src directory
+All the codes find in 2D_DF_flows\src
